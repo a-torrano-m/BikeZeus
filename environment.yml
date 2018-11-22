@@ -1,17 +1,17 @@
-name: BikeZeus
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - python>3.6
-  - notebook>5.2
-  - jupyter_dashboards
-  - jupyter_dashboards_bundlers
+  - python
+  - numpy
+  - psutil
+  - toolz
   - matplotlib
-  - folium
-  - ipywidgets=7
-  - qgrid
+  - dill
   - pandas
-  - bson
-  - requests
+  - partd
+  - bokeh
+  - dask
+  - seaborn
+  - scikit-learn
+  - folium
  

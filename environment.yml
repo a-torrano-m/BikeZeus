@@ -16,10 +16,6 @@ dependencies:
   - pandas
   - bson
   - requests
-  - urllib 
-  - json
-  - datetime
   - seaborn
-  - random
   - numpy
  

@@ -2,14 +2,24 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/a-torrano-m/BikeZeus/master)
 
-A repository of all my jupyter notebooks to use at mybinder.org. I have added notes on all basic python frameworks, which are based on practice notes from various moocs and tutorials. I have also included a requirements file and a binder launcher link so that a standalone jupyter notebook environment can be loaded in mybinder.org.
+A repository of all Jupyter notebooks for assignment on bikes.
+Each Jupyter contains python code and/or text solving each one of the questions.
+Besides, some notebooks will render heatmaps on the fly ( please follow [launch|BINDER] link above ).
 
-I have included a few basic libraries like Numpy, Pandas, Scipy, Matplotlib, Scikit-learn and Folium.
+Directory contents:
 
-### BikeNoteBook1
-blabla
-### BikeNoteBook2
-blabla
-### BikeNoteBook3
+data/HOSCO : dump files for a MongoDB of snapshots of stations.
+html : target directory where script from Question 2 sends rendered heatmaps as html files.
+img  : Some figures used by the JupyterNotebooks.
+src  : source directory. Thereis a subdirectory for each question. Scripts must be ran from 
+    their own directory.
+./BikesNotebook_question0.ipynb : Data retrieval part for answering question 2.
+./BikesNotebook_question1.ipynb : Answer to question 1.
+./BikesNotebook_question2.ipynb : Answer to question 2 ( follow above [launch-BINDER] link 
+in order to get the embedded maps and figures).
+./BikesNotebook_question3.ipynb : Answer to question 3, plain explation with a simple diagram.
+./README.md 			: This file.
+./environment.yml		: configuration file for BINDER environment.
+
 
  

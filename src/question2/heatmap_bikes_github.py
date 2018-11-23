@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*-
 
 '''
+QUESTION 2 for HOSCO Data Engineer assignment.
+
+    Find most favourable bike-stations to choose a place for living in Gracia district..
 
 '''
 

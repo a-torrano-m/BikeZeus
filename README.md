@@ -5,7 +5,7 @@
 BikeZeus is a repository of all my Jupyter Notebooks for the assignment.
 Each Jupyter contains python code and/or text solving each one of the questions.
 Besides, some notebooks will render heatmaps on the fly ( please follow above [launch|BINDER] link to see them ).
-So, there is no need to download any source code and run it in local. But it case it was needed,
+So, there is no need to download any source code and run it in local. But in case it was needed,
 all scripts could be executed from their own under 'src' directory.
 
 Directory contents:

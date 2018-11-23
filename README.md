@@ -26,7 +26,7 @@ their own directory.
 ./BikesNotebook_question1.ipynb		: Answer to question 1.
 
 ./BikesNotebook_question2.ipynb		: Answer to question 2 ( follow above [launch-BINDER] link 
-in order to get the embedded maps and figures).
+in order to get the embedded maps and figures). Maps are DRAGGABLE and ZOOMABLE.
 
 ./BikesNotebook_question2_SIMUL.ipynb	: Solution to question 2 from the Operations Research/Simulation
 point of view. It is possible to map the district and estimate mean commute time for each point in a grid

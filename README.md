@@ -31,7 +31,7 @@ in order to get the embedded maps and figures). Maps are DRAGGABLE and ZOOMABLE.
 ./BikesNotebook_question2_SIMUL.ipynb	: Solution to question 2 from the Operations Research/Simulation
 point of view. It is possible to map the district and estimate mean commute time for each point in a grid
 spanning all Gracia district under the parameters of time constraints, bikes, and depleted stations.
-<under construnction>  
+(under construnction)
 
 ./BikesNotebook_question3.ipynb		: Answer to question 3, plain explation with a simple diagram.
 

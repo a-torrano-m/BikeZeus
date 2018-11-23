@@ -13,8 +13,8 @@ Directory contents:
 data/HOSCO 	: MongoDB dump files for retrieved snapshots of stations. Each five minutes during 
 twenty four hours the script stored a snapshot.
 
-html 		: Target directory where script from Question 2 writes rendered heatmaps as html files in
-the target directory './html'.
+html 		: Target directory where script from Question 2 writes its resulting rendered heatmaps as 
+html files.
 
 img  		: Some figures used by the Jupyter Notebooks.
 
@@ -27,6 +27,11 @@ their own directory.
 
 ./BikesNotebook_question2.ipynb		: Answer to question 2 ( follow above [launch-BINDER] link 
 in order to get the embedded maps and figures).
+
+./BikesNotebook_question2_SIMUL.ipynb	: Solution to question 2 from the Operations Research/Simulation
+point of view. It is possible to map the district and estimate mean commute time for each point in a grid
+spanning all Gracia district under the parameters of time constraints, bikes, and depleted stations.
+<under construnction>  
 
 ./BikesNotebook_question3.ipynb		: Answer to question 3, plain explation with a simple diagram.
 
